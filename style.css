@@ -1,0 +1,27 @@
+body{
+    margin: 0em;
+    font-family: 'Noto Sans', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+
+}
+.cover {
+    height: 750px;
+    background-image: url(assets/index.png);
+    background-size: cover;
+    background-position: center;
+}
+.card{
+    border: 0 !important;
+    
+}
+.card-text{
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+}
